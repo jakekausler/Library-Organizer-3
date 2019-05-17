@@ -1,0 +1,986 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"pos",
+				"position.y\t(HexMesh.cs)"
+			],
+			[
+				"cellP",
+				"cellPerturbStrength\t(HexMetrics.cs)"
+			],
+			[
+				"poi",
+				"point0"
+			],
+			[
+				"Texture",
+				"Texture2D"
+			],
+			[
+				"Triang",
+				"TriangulateCornerTerracesCliff"
+			],
+			[
+				"Tri",
+				"TriangulateCornerCliffTerraces"
+			],
+			[
+				"bou",
+				"boundaryColor"
+			],
+			[
+				"AddTri",
+				"AddTriangleColor"
+			],
+			[
+				"Troi",
+				"TriangulateBoundaryTriangle"
+			],
+			[
+				"Tra",
+				"TriangulateCorner"
+			],
+			[
+				"boun",
+				"boundaryColor"
+			],
+			[
+				"Trai",
+				"TriangulateCorner"
+			],
+			[
+				"nei",
+				"neighbor"
+			],
+			[
+				"ri",
+				"rightEdgeType"
+			],
+			[
+				"AddQua",
+				"AddQuadColor"
+			],
+			[
+				"AddQ",
+				"AddQuad"
+			],
+			[
+				"righ",
+				"rightCell"
+			],
+			[
+				"AddTr",
+				"AddTriangleColor"
+			],
+			[
+				"bottom",
+				"bottomCell"
+			],
+			[
+				"Tria",
+				"TriangulateCorner"
+			],
+			[
+				"ele",
+				"elevation1"
+			],
+			[
+				"elev",
+				"elevation2"
+			],
+			[
+				"el",
+				"elevation\t(HexMapEditor.cs)"
+			],
+			[
+				"begin",
+				"beginRight"
+			],
+			[
+				"beg",
+				"beginLeft"
+			],
+			[
+				"Trian",
+				"Triangulate"
+			],
+			[
+				"terr",
+				"terracesPerSlope"
+			],
+			[
+				"AddT",
+				"AddTriangle"
+			],
+			[
+				"bri",
+				"bridgeColor"
+			],
+			[
+				"AddQu",
+				"AddQuadColor"
+			],
+			[
+				"GetF",
+				"GetFirstCorner\t(HexMetrics.cs)"
+			],
+			[
+				"GetFirs",
+				"GetFirstSolidCorner"
+			],
+			[
+				"vert",
+				"vertexIndex"
+			],
+			[
+				"ver",
+				"vertexIndex"
+			],
+			[
+				"GetFi",
+				"GetFirstSolidCorner\t(HexMetrics.cs)"
+			],
+			[
+				"edg",
+				"edgeColor"
+			],
+			[
+				"Serial",
+				"SerializeField\t(HexCoordinates.cs)"
+			],
+			[
+				"Color",
+				"ColorCell\t(HexMapEditor.cs)"
+			],
+			[
+				"act",
+				"activeColor"
+			],
+			[
+				"HexC",
+				"HexCell"
+			],
+			[
+				"Hex",
+				"HexCoordinates"
+			],
+			[
+				"Vector",
+				"Vector3"
+			],
+			[
+				"HexM",
+				"HexMetrics\t(HexGrid.cs)"
+			],
+			[
+				"rec",
+				"rectTransform"
+			],
+			[
+				"cell",
+				"cellPrefab"
+			],
+			[
+				"su",
+				"sunset"
+			],
+			[
+				"T",
+				"TIMEZONE"
+			],
+			[
+				"date",
+				"datetime"
+			],
+			[
+				"DAY",
+				"END_OF_DAY"
+			],
+			[
+				"change",
+				"CHANGE_TIME\tstatement"
+			],
+			[
+				"getS",
+				"getSunrise"
+			],
+			[
+				"num",
+				"numPixels"
+			],
+			[
+				"trac",
+				"track_columns"
+			],
+			[
+				"get",
+				"get_num_channels\tfunction"
+			],
+			[
+				"ends",
+				"endswith"
+			],
+			[
+				"ref",
+				"reference"
+			],
+			[
+				"inv",
+				"inventory"
+			],
+			[
+				"shop",
+				"shopRarities"
+			],
+			[
+				"this",
+				"this_pop"
+			],
+			[
+				"print",
+				"print_shop"
+			],
+			[
+				"in",
+				"inventory"
+			],
+			[
+				"tiles_",
+				"tiles_wide"
+			],
+			[
+				"file",
+				"filename"
+			],
+			[
+				"tiles",
+				"tiles_wide"
+			],
+			[
+				"tile",
+				"tiles_wide"
+			],
+			[
+				"def",
+				"default"
+			],
+			[
+				"distan",
+				"distanceFromRoad"
+			],
+			[
+				"GetRa",
+				"GetRandomLairCommon"
+			],
+			[
+				"hex",
+				"hex_width"
+			],
+			[
+				"pixel",
+				"pixels_high"
+			],
+			[
+				"y",
+				"y_offset"
+			],
+			[
+				"pix",
+				"pixels_wide"
+			],
+			[
+				"Nights",
+				"Nightshade"
+			],
+			[
+				"chek",
+				"checkValue"
+			],
+			[
+				"GetForage",
+				"GetForageTerrains\t(screen5.html)"
+			],
+			[
+				"check",
+				"checkValue"
+			],
+			[
+				"amou",
+				"amountGathered"
+			],
+			[
+				"forageT",
+				"forageTerrain"
+			],
+			[
+				"forageTer",
+				"forageTerrains"
+			],
+			[
+				"forage",
+				"forageTerrains"
+			],
+			[
+				"inn",
+				"innerHTML"
+			],
+			[
+				"for",
+				"forageCheckValue"
+			],
+			[
+				"marg",
+				"margin-bottom\tproperty"
+			],
+			[
+				"text",
+				"textarea\tTag"
+			],
+			[
+				"tab",
+				"tableParams"
+			],
+			[
+				"util",
+				"utilities.js\t(screen5.html)"
+			],
+			[
+				"Skill",
+				"SkillMap"
+			],
+			[
+				"rel",
+				"religious"
+			],
+			[
+				"religiousRole",
+				"religiousRoleDescription"
+			],
+			[
+				"relg",
+				"religious"
+			],
+			[
+				"Sav",
+				"SavingThrowProficiencies\t(npcs.js)"
+			],
+			[
+				"poss",
+				"possiblePrejudices"
+			],
+			[
+				"GetRe",
+				"GetRegionHappinesses\t(npcs.js)"
+			],
+			[
+				"reg",
+				"regionHappinesses"
+			],
+			[
+				"Commu",
+				"CommunityStatuses"
+			],
+			[
+				"region",
+				"regionHappinesses\t(screen5.html)"
+			],
+			[
+				"thr",
+				"threatened"
+			],
+			[
+				"tem",
+				"temperature"
+			],
+			[
+				"sub",
+				"subfolder_names"
+			],
+			[
+				"norm",
+				"normalizedCoord"
+			],
+			[
+				"zoom",
+				"zoom_levels"
+			],
+			[
+				"Art",
+				"ArtisanTools"
+			],
+			[
+				"Mus",
+				"MusicalInstruments"
+			],
+			[
+				"too",
+				"toolProficiencies"
+			],
+			[
+				"sav",
+				"savingThrowProficiencies"
+			],
+			[
+				"Extrea",
+				"ExtraChoices"
+			],
+			[
+				"Back",
+				"Background"
+			],
+			[
+				"skill",
+				"skillProficiencies"
+			],
+			[
+				"se",
+				"secondary"
+			],
+			[
+				"Bac",
+				"BackgroundMap"
+			],
+			[
+				"Tool",
+				"ToolProficiencies"
+			],
+			[
+				"lang",
+				"languages"
+			],
+			[
+				"Hit",
+				"HitDice"
+			],
+			[
+				"Natu",
+				"NaturalArmor"
+			],
+			[
+				"Op",
+				"Optimistic"
+			],
+			[
+				"comm",
+				"communityStatus"
+			],
+			[
+				"race",
+				"race.Name"
+			],
+			[
+				"sib",
+				"siblings"
+			],
+			[
+				"gend",
+				"genderPronoun"
+			],
+			[
+				"genderP",
+				"genderPossessivePronoun"
+			],
+			[
+				"life",
+				"lifeStatus"
+			],
+			[
+				"ali",
+				"alignment"
+			],
+			[
+				"si",
+				"siblings"
+			],
+			[
+				"al",
+				"alignment"
+			],
+			[
+				"getGen",
+				"GetGenderPronoun"
+			],
+			[
+				"sibl",
+				"sibling"
+			],
+			[
+				"len",
+				"length"
+			],
+			[
+				"GetGe",
+				"GetGenderPronoun"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Anaconda Python Builder",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				]
+			],
+			[
+				"Anaconda Python Builder",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					""
+				],
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					"Run"
+				]
+			],
+			[
+				"Packages/C++/C++ Single File.sublime-build",
+				"Run"
+			]
+		],
+		[
+			[
+				[
+					"Packages/MinGW-w64.sublime-build",
+					""
+				],
+				[
+					"Packages/MinGW-w64.sublime-build",
+					"Run"
+				]
+			],
+			[
+				"Packages/MinGW-w64.sublime-build",
+				"Run"
+			]
+		],
+		[
+			[
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				]
+			],
+			[
+				"Packages/Python/Python.sublime-build",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 302.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"pretty",
+				"Pretty JSON: Format (Pretty Print) JSON"
+			],
+			[
+				"regreplace",
+				"Reg Replace: Convert Shops"
+			],
+			[
+				"pac",
+				"Package Control: Install Package"
+			],
+			[
+				"package control",
+				"Preferences: Package Control Settings – Default"
+			],
+			[
+				"json",
+				"Pretty JSON: Format and Sort JSON"
+			],
+			[
+				"JSON",
+				"Pretty JSON: Format (Pretty Print) JSON"
+			],
+			[
+				"prett",
+				"Pretty JSON: Format (Pretty Print) JSON"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"jsh",
+				"JSHint"
+			],
+			[
+				"format",
+				"Format: Javascript"
+			],
+			[
+				"pret",
+				"Pretty JSON: Format (Pretty Print) JSON"
+			],
+			[
+				"lint",
+				"SublimeLinter: Goto Error"
+			],
+			[
+				"",
+				"Anaconda: McCabe complexity check"
+			],
+			[
+				"case",
+				"Convert Case: Title Case"
+			],
+			[
+				"coolf",
+				"CoolFormat: Quick Format"
+			],
+			[
+				"coolformat",
+				"CoolFormat: Quick Format"
+			],
+			[
+				"package",
+				"Package Control: Install Package"
+			],
+			[
+				"todo",
+				"TodoReview: Project Files"
+			],
+			[
+				"git",
+				"Git: Init"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"prettyjson",
+				"Pretty JSON: Format (Pretty Print) JSON"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"align",
+				"Preferences: Alignment Key Bindings – Default"
+			]
+		],
+		"width": 540.0
+	},
+	"console":
+	{
+		"height": 416.0,
+		"history":
+		[
+			"groovy",
+			"import urllib.request,os,hashlib; h = '6f4c264a24d933ce70df5dedcf1dcaee' + 'ebe013ee18cced0ef93d5f746d80ef60'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/Users/jagkau/Documents/workspace/library"
+	],
+	"file_history":
+	[
+		"/C/Users/jagkau/OneDrive/Pictures/DnD/Tables/server.py",
+		"/C/Users/jagkau/Documents/HexThing/Assets/Scripts/HexGridChunk.cs",
+		"/C/Users/jagkau/Documents/HexThing/Assets/Shaders/River.shader",
+		"/C/Users/jagkau/OneDrive/Documents/Workspace/Hex Thing/Assets/Scripts/Editor/HexCoordinatesDrawer.cs",
+		"/C/Users/jagkau/OneDrive/Documents/Workspace/Hex Thing/Assets/Scripts/HexCoordinates.cs",
+		"/C/Users/jagkau/OneDrive/Documents/Workspace/Hex Thing/Assets/Scripts/HexCell.cs",
+		"/C/Users/jagkau/OneDrive/Documents/Workspace/Hex Thing/Assets/Scripts/HexDirection.cs",
+		"/C/Users/jagkau/OneDrive/Documents/Workspace/Hex Thing/Assets/Scripts/HexGrid.cs",
+		"/C/Users/jagkau/OneDrive/Documents/Workspace/Hex Thing/Assets/Scripts/HexMesh.cs",
+		"/C/Users/jagkau/OneDrive/Documents/Workspace/Hex Thing/Assets/Scripts/HexMapEditor.cs",
+		"/C/Users/jagkau/OneDrive/Documents/Workspace/Hex Thing/Assets/Scripts/Noise.cs",
+		"/C/Users/jagkau/OneDrive/Documents/Workspace/Hex Thing/Assets/Scripts/TextureCreator.cs",
+		"/C/Users/jagkau/OneDrive/Documents/Workspace/Hex Thing/Assets/Scripts/HexEdgeType.cs",
+		"/C/Users/jagkau/OneDrive/Documents/Workspace/Hex Thing/Assets/Scripts/HexMetrics.cs",
+		"/C/Users/jagkau/OneDrive/Documents/Workspace/Hex Thing/Assets/Shaders/VertexColors.shader",
+		"/C/Users/jagkau/OneDrive/Documents/Workspace/Hex Thing/Assets/Scripts/HexCoordinatesDrawer.cs",
+		"/C/Users/jagkau/Downloads/DT_IMPUTE.sashdat",
+		"/C/Users/jagkau/OneDrive/aquarium_lights.py",
+		"/C/Users/jagkau/OneDrive/Pictures/DnD/monsterdata.json",
+		"/C/Users/jagkau/OneDrive/Pictures/DnD/DMScreens/screen5.html",
+		"/C/Users/jagkau/OneDrive/Pictures/DnD/Audio Mixer/window.py",
+		"/C/Users/jagkau/OneDrive/Pictures/DnD/Audio Mixer/audio.py",
+		"/C/Users/jagkau/OneDrive/Pictures/DnD/getShops.py",
+		"/C/Users/jagkau/AppData/Roaming/Sublime Text 3/Packages/User/reg_replace_rules.sublime-settings",
+		"/C/Users/jagkau/OneDrive/Pictures/DnD/DMScreens/utilities.js",
+		"/C/Users/jagkau/OneDrive/Pictures/DnD/DMScreens/shops.js",
+		"/C/Users/jagkau/OneDrive/Pictures/DnD/DMScreens/data/ritual_spells.js",
+		"/C/Users/jagkau/AppData/Roaming/Sublime Text 3/Packages/User/Default.sublime-commands",
+		"/C/Users/jagkau/AppData/Local/Continuum/anaconda2/lib/lib-tk/Tkinter.py",
+		"/C/Users/jagkau/OneDrive/Pictures/DnD/audio.py",
+		"/C/Users/jagkau/OneDrive/Documents/DnD/Assets/Monster.cs",
+		"/C/Program Files/GIMP 2/share/gimp/2.0/scripts/arrow.scm",
+		"/C/Users/jagkau/Desktop/getColors.c",
+		"/C/Users/jagkau/OneDrive/Pictures/DnD/DMScreens/data/items.js",
+		"/C/Users/jagkau/AppData/Roaming/Sublime Text 3/Packages/Package Control/Package Control.sublime-settings",
+		"/C/Users/jagkau/OneDrive/Pictures/DnD/common magic items list",
+		"/C/Users/jagkau/OneDrive/Fish Tank Schedule",
+		"/C/Users/jagkau/OneDrive/Pictures/DnD/DMScreens/item_editor.html",
+		"/C/Users/jagkau/OneDrive/Pictures/DnD/DMScreens/TheGiddyLimit.github.io-master/data/items.json",
+		"/C/Users/jagkau/OneDrive/Pictures/DnD/hoardinput2",
+		"/C/Users/jagkau/OneDrive/Pictures/DnD/hoardinput",
+		"/C/Users/jagkau/Documents/ccseeds.py",
+		"/C/Users/jagkau/Documents/ccdata",
+		"/C/Users/jagkau/OneDrive/Pictures/DnD/DMScreens/forage.js",
+		"/C/Users/jagkau/OneDrive/Pictures/DnD/hex_placement.py",
+		"/C/Users/jagkau/OneDrive/Pictures/DnD/markers",
+		"/C/Users/jagkau/OneDrive/Pictures/DnD/MapServer/index.html",
+		"/C/Users/jagkau/Downloads/history.qif",
+		"/C/Users/jagkau/OneDrive/Pictures/DnD/DMScreens/TheGiddyLimit.github.io-master/data/bestiary/beastiary.py",
+		"/C/Users/jagkau/Desktop/getdimensions.py",
+		"/C/Users/jagkau/OneDrive/Pictures/DnD/DMScreens/TheGiddyLimit.github.io-master/data/bestiary/bestiary-mm.json",
+		"/C/Users/jagkau/OneDrive/Pictures/DnD/DMScreens/TheGiddyLimit.github.io-master/data/bestiary/newmonsters.json",
+		"/C/Users/jagkau/Downloads/Deer.json",
+		"/C/Users/jagkau/Downloads/bestiary-sublist.json",
+		"/C/Users/jagkau/OneDrive/Pictures/DnD/itemlists",
+		"/C/Users/jagkau/OneDrive/Pictures/DnD/treasureoutput.txt",
+		"/C/Users/jagkau/OneDrive/Pictures/DnD/treasure.py",
+		"/C/Users/jagkau/OneDrive/Pictures/DnD/DMScreens/item_editor/itemeditor/src/app/table.css",
+		"/C/Users/jagkau/OneDrive/Pictures/DnD/DMScreens/item_editor/itemeditor/src/app/table.ts",
+		"/C/Users/jagkau/OneDrive/Pictures/DnD/DMScreens/item_editor/itemeditor/src/app/table.html",
+		"/C/Users/jagkau/OneDrive/Pictures/DnD/DMScreens/item_editor/itemeditor/src/app/app.component.ts",
+		"/C/Users/jagkau/OneDrive/Pictures/DnD/DMScreens/item_editor/itemeditor/src/app/app.component.spec.ts",
+		"/C/Users/jagkau/OneDrive/Pictures/DnD/DMScreens/item_editor/itemeditor/src/app/app.module.ts",
+		"/C/Users/jagkau/OneDrive/Pictures/DnD/DMScreens/item_editor/itemeditor/src/app/app-routing.module.ts",
+		"/C/Users/jagkau/OneDrive/Pictures/DnD/DMScreens/screen1.html",
+		"/C/Users/jagkau/OneDrive/Pictures/DnD/DMScreens/screen2.html",
+		"/C/Users/jagkau/OneDrive/Pictures/DnD/DMScreens/screen3.html",
+		"/C/Users/jagkau/OneDrive/Pictures/DnD/DMScreens/screen4.html",
+		"/C/Users/jagkau/OneDrive/Pictures/DnD/DMScreens/weather.js",
+		"/C/Users/jagkau/OneDrive/Pictures/DnD/DMScreens/npcbackgrounds.js",
+		"/C/Users/jagkau/OneDrive/Pictures/DnD/npcbackgrounds.py",
+		"/C/Users/jagkau/OneDrive/Pictures/DnD/DMScreens/random.js",
+		"/C/Users/jagkau/OneDrive/Pictures/DnD/DMScreens/cities.js",
+		"/C/Users/jagkau/OneDrive/Pictures/DnD/DMScreens/encounters.js",
+		"/C/Users/jagkau/OneDrive/Pictures/DnD/DMScreens/npcs.js",
+		"/C/Users/jagkau/OneDrive/Pictures/DnD/DMScreens/data/languages.js",
+		"/C/Users/jagkau/OneDrive/Pictures/DnD/DMScreens/data/skill_map.js",
+		"/C/Users/jagkau/OneDrive/Pictures/DnD/DMScreens/data/gods.js",
+		"/C/Users/jagkau/OneDrive/Pictures/DnD/DMScreens/data/prejudices.js",
+		"/C/Users/jagkau/OneDrive/Pictures/DnD/DMScreens/quirks.js",
+		"/C/Users/jagkau/OneDrive/Pictures/DnD/DMScreens/data/community_statueses.js",
+		"/C/Users/jagkau/OneDrive/Pictures/DnD/DMScreens/mental_disorders.js",
+		"/C/Users/jagkau/OneDrive/Pictures/DnD/DMScreens/hobbies.js",
+		"/C/Users/jagkau/OneDrive/Pictures/DnD/DMScreens/data/tools.js",
+		"/C/Users/jagkau/OneDrive/Pictures/DnD/DMScreens/data/musical_instruments.js",
+		"/C/Users/jagkau/OneDrive/Pictures/DnD/DMScreens/data/race_names.js",
+		"/C/Users/jagkau/OneDrive/Pictures/DnD/DMScreens/data/classes.js",
+		"/C/Users/jagkau/OneDrive/Pictures/DnD/DMScreens/index.html",
+		"/C/Users/jagkau/Downloads/LibraryKeyPair.pem",
+		"/C/Users/jagkau/OneDrive/Pictures/DnD/MapServer/client.py",
+		"/C/Users/jagkau/OneDrive/Pictures/DnD/MapServer/server.py",
+		"/C/Users/jagkau/OneDrive/Pictures/DnD/MapServer/styles.css",
+		"/C/Users/jagkau/OneDrive/Pictures/DnD/cropmap.py",
+		"/C/Users/jagkau/OneDrive/Pictures/DnD/MapServer/sockets.js",
+		"/C/Users/jagkau/OneDrive/Pictures/DnD/map_tiles/tileserver.py",
+		"/C/Users/jagkau/OneDrive/Pictures/DnD/MapServer/server.js",
+		"/C/Users/jagkau/OneDrive/Pictures/DnD/MapServer/server.coffee",
+		"/C/Users/jagkau/OneDrive/Pictures/DnD/MapServer/style.css",
+		"/C/Users/jagkau/OneDrive/Pictures/DnD/MapServer/scripts.coffee",
+		"/C/Users/jagkau/OneDrive/Pictures/DnD/MapServer/jquery.event.drag-2.0.js",
+		"/C/Users/jagkau/OneDrive/Pictures/DnD/MapServer/socket.coffee",
+		"/C/Users/jagkau/OneDrive/Pictures/DnD/DMScreens/npcs-d10c619.js",
+		"/C/Users/jagkau/Downloads/Improved_NPC_Interactions.pdf",
+		"/C/Users/jagkau/OneDrive/Pictures/DnD/DMScreens/treasure.js",
+		"/C/Users/jagkau/Downloads/The One Loot Table To Rule Them All - Dungeon Loot (1).tsv",
+		"/C/Users/jagkau/AppData/Roaming/Sublime Text 3/Packages/User/pep8_autoformat.sublime-settings",
+		"/C/Users/jagkau/OneDrive/Pictures/DnD/itemeditor.py",
+		"/C/Users/jagkau/AppData/Roaming/Sublime Text 3/Packages/Python PEP8 Autoformat/pep8_autoformat.sublime-settings",
+		"/C/Users/jagkau/Downloads/The One Loot Table To Rule Them All - Dungeon Loot.tsv",
+		"/C/Users/jagkau/Downloads/converttables.py",
+		"/C/Users/jagkau/Downloads/MagicItemTableG.json",
+		"/C/Users/jagkau/Downloads/Art750gp.json",
+		"/C/Users/jagkau/Downloads/ArmorForTableI.json",
+		"/C/Users/jagkau/Downloads/Art25gp.json",
+		"/C/Users/jagkau/Downloads/Art250gp.json",
+		"/C/Users/jagkau/Downloads/Art2500gp.json",
+		"/C/Users/jagkau/Downloads/Gems5000.json",
+		"/C/Users/jagkau/Downloads/Art7500gp.json",
+		"/C/Users/jagkau/Downloads/Gems10gp.json",
+		"/C/Users/jagkau/Downloads/Gems50gp.json",
+		"/C/Users/jagkau/Downloads/Gems100gp.json",
+		"/C/Users/jagkau/Downloads/Gems500gp.json",
+		"/C/Users/jagkau/Downloads/Gems1000gp.json",
+		"/C/Users/jagkau/Downloads/HoardTreasureHighCR.json",
+		"/C/Users/jagkau/Downloads/MagicItemTableA.json",
+		"/C/Users/jagkau/Downloads/HoardTreasureImpossibleCR.json",
+		"/C/Users/jagkau/Downloads/HoardTreasureLowCR.json",
+		"/C/Users/jagkau/Downloads/HoardTreasureMediumCR.json"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 650.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 210.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.SublimeLinter":
+	{
+		"height": 0.0
+	},
+	"output.exec":
+	{
+		"height": 300.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.mdpopups":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "libraryproject.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 175.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
